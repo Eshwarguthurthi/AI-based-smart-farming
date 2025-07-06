@@ -1,1 +1,2 @@
-# AI-based-smart-farming
+# ai-based-farming
+ai based smart farming
